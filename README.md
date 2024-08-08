@@ -1,3 +1,6 @@
+# DEPRECATED
+## Please use: https://github.com/bmartino1/unraid-lxc-unifi  
+
 # Unifi Network Server LXC container archive for unRAID
 
 ## Prerequisites
